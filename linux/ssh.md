@@ -1,0 +1,3 @@
+用ssh连接其他主机
+1. 安装ssh（一般都自带）
+2. ssh user@host  for example：ssh root@63.994.33...
