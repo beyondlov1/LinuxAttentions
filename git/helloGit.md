@@ -20,7 +20,7 @@ git commit -m "first commit"
 git remote add origin git@github.com:beyondlov1/LinuxAttentions.git
 git push -u origin master
 
--git remote add origin git@github.com:beyondlov1/LinuxAttentions.git
+- git remote add origin git@github.com:beyondlov1/LinuxAttentions.git
 git push -u origin master
 
 -
