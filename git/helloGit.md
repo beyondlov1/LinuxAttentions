@@ -23,6 +23,7 @@ git push -u origin master
 - git remote add origin git@github.com:beyondlov1/LinuxAttentions.git
 git push -u origin master
 
--
+**Attention!!!**
+要在空的文件夾中創建倉庫,不然會把以前的文件都刪除
 
 reference: http://www.cnblogs.com/cocowool/archive/2010/10/19/1855616.html
