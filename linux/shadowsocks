@@ -1,0 +1,6 @@
+#### install
+sudo apt-get install python-pip
+sudo pip install shadowsocks
+下载elactronic-shadowsocks
+ubuntu梗概网络连接中的代理模式
+参考：https://www.jianshu.com/p/c3ee7b68a950
