@@ -13,3 +13,4 @@ xfce 是一个非常快的linux桌面,但是没有gnome中默认的代理设置
 将最后一行删掉, 改为: socks5 127.0.0.1 1080
 之后启动用命令行来启动浏览器: proxychains google-chrome
 完成
+参考: http://www.cnblogs.com/angiebare/p/9356958.html
