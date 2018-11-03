@@ -6,3 +6,6 @@ apt-get -f -y install
 https://www.linuxidc.com/Linux/2013-07/87680.htm
 http://www.voidcn.com/article/p-paayucjg-bqa.html
 https://blog.csdn.net/changfengxiongfei/article/details/6384202
+#### 解决笔记本过热
+https://wiki.ubuntu.com/Bumblebee
+#### 安装java
