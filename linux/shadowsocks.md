@@ -14,3 +14,6 @@ xfce 是一个非常快的linux桌面,但是没有gnome中默认的代理设置
 之后启动用命令行来启动浏览器: proxychains google-chrome
 完成
 参考: http://www.cnblogs.com/angiebare/p/9356958.html
+
+####ssr
+https://ssr-panel.minirplus.com/
